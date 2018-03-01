@@ -1,4 +1,4 @@
-# scala-solr
+# scala-solr (WIP)
 An example connecting Scala with Solr
 
 ### References
